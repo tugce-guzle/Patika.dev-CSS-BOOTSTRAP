@@ -24,7 +24,8 @@
 
 ---
 
-## BOOTSTRAP ÖDEVİ
+## BOOTSTRAP ÖDEVLERİ
+### BOOTSTRAP-1 ÖDEVİ
 ##### Anasayfa (index.html)
 ![bootstrap-1 odevi gorseli](assets_md/bootstrap_odev1_homepage.png)
 
@@ -37,4 +38,7 @@
 ![bootstrap-1 odevi gorseli](assets_md/bootstrap_odev1_aboutus.png)
 
 ---
+
+### BOOTSTRAP-2 DENEME
+![deneme](assets_md/deneme.png)
 
